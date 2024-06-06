@@ -139,6 +139,7 @@ img {
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
   min-width: 320px;
   max-width: 767px;
+  margin: auto;
 }
 
 .core-values {
@@ -185,6 +186,7 @@ img {
 .our-team {
   padding-top: 96px;
   padding-bottom: 96px;
+  margin: auto;
 }
 .our-team-h-primary {
   margin-bottom: 72px;
